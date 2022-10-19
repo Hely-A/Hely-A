@@ -23,4 +23,7 @@ Here are some ideas to get you started:
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hely-A&layout=compact&langs_count=7&theme=calm"/>
   <!-- Verificar repositório (https://github.com/anuraghazra/github-readme-stats) para alterar temas e outras coisinhas-->
 </div>
-## <!-- Configurar cobrinha e ver mais ideias para o perfil-->
+## <!-- 
+1. Configurar cobrinha e ver mais ideias para o perfil
+2. https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open
+-->
