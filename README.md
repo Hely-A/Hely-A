@@ -1,5 +1,11 @@
 ### Olá 👋
 
+Meu nome é Helen, sou estudante de Engenharia de computação pelo Centro Universitário das Américas(FAM/SP).
+
+- Estou buscando um estágio na área de tecnologia
+- Meus temas preferidos são Segurança, Dados e Desenvolvimento.
+- Sou curiosa, gosto muito de aprender.
+
 <!--
 **Hely-A/Hely-A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
