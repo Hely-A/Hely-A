@@ -1,6 +1,6 @@
 ### Olá 👋
 
-![Gatinho](https://giphy.com/embed/eLv7gJpxqiQtbNNQUe)
+![Gatinho](https://giphy.com/embed/eLv7gJpxqiQtbNNQUe](https://giphy.com/stickers/justin-transparent-eLv7gJpxqiQtbNNQUe)
 
 Meu nome é Helen, sou estudante de Engenharia de computação pelo Centro Universitário das Américas(FAM/SP).
 
