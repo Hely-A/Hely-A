@@ -25,8 +25,8 @@ Here are some ideas to get you started:
 
 <div align="center"> <!-- 2 grafico que mostra os projetos, linguagens e etc-->
   <a href="https://github.com/Hely-A">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Hely-A&show_icons=true&theme=calm&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hely-A&layout=compact&langs_count=7&theme=calm"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Hely-A&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hely-A&layout=compact&langs_count=7&theme=algolia"/>
   <!-- Verificar repositório (https://github.com/anuraghazra/github-readme-stats) para alterar temas e outras coisinhas-->
 </div>
 ## <!-- 
