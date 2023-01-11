@@ -1,8 +1,6 @@
 ### Olá 👋
 
-~~~html
-<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/eLv7gJpxqiQtbNNQUe" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/stickers/justin-transparent-eLv7gJpxqiQtbNNQUe">via GIPHY</a></p> 
-~~~
+![Gatinho com lápis](https://www.flaticon.com/free-icon/kitty_763789?term=cute&page=1&position=9&origin=tag&related_id=763789)
 
 Meu nome é Helen, sou estudante de Engenharia de computação pelo Centro Universitário das Américas(FAM/SP).
 
