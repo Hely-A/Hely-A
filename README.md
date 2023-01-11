@@ -1,5 +1,7 @@
 ### Olá 👋
 
+![Gatinho](https://giphy.com/embed/eLv7gJpxqiQtbNNQUe)
+
 Meu nome é Helen, sou estudante de Engenharia de computação pelo Centro Universitário das Américas(FAM/SP).
 
 - Estou buscando um estágio na área de tecnologia
