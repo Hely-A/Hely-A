@@ -1,6 +1,6 @@
 ### Olá 👋
 
-![Gatinho com lápis](https://www.flaticon.com/free-icon/kitty_763789?term=cute&page=1&position=9&origin=tag&related_id=763789)
+
 
 Meu nome é Helen, sou estudante de Engenharia de computação pelo Centro Universitário das Américas(FAM/SP).
 
